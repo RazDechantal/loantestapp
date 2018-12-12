@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/loantestapp/precache-manifest.44ce5c871cea0d834daa1693f08d659f.js"
+  "/loantestapp/precache-manifest.c74d3cbb6b1d8a3cb99ec5786439e742.js"
 );
 
 workbox.clientsClaim();
